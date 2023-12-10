@@ -4,4 +4,5 @@ This repository contains a simple Java program for calculating Grade Point Avera
 
 # FORMULAR
 
-Quality point = course unit * grade unit GPA = total quality point / total grade unit
+Quality point = course unit * grade unit 
+GPA = total quality point / total grade unit
